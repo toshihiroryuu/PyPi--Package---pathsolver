@@ -1,0 +1,8 @@
+README.md
+setup.py
+pathsolver/__init__.py
+pathsolver/code.py
+pathsolver.egg-info/PKG-INFO
+pathsolver.egg-info/SOURCES.txt
+pathsolver.egg-info/dependency_links.txt
+pathsolver.egg-info/top_level.txt
